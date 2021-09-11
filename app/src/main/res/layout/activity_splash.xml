@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:fontFamily="casual"
+        android:fontFamily="@font/aclonica"
         android:text="Tic Tac Toe"
         android:textColor="@color/green"
         android:textSize="48sp"

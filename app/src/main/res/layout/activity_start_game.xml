@@ -32,7 +32,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="casual"
+        android:fontFamily="@font/aclonica"
         android:text="Tic Tac Toe"
         android:textColor="#07F83B"
         android:textSize="48sp"
